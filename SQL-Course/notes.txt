@@ -1,0 +1,30 @@
+SORGU KOMUTLARININ YAZILMA VE CALISTIRILMA SIRASI
+--------------------------------------------------------
+			                 Calistirilma Sirasi
+SELECT ................(5)
+FROM ..................(1)
+WHERE .................(2)
+GROUP BY ..............(3)
+HAVING ................(4)
+ORDER BY ..............(6)
+
+
+AGGREGATE FUNCTINOS
+--------------------------
+SUM()
+MIN()
+MAX()
+COUNT()
+AVG()
+
+
+-- Common Table Expression (CTE)
+
+SET OPERATORS
+------------------------
+1- UNION ALL
+2- UNION
+3- INTERSECT
+4- EXCEPT (MINUS)
+
+
